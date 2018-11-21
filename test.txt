@@ -1,3 +1,3 @@
-Hello Git! 123
+Hello Git!
 A New Line.
 Add new Line. 12312
